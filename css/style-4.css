@@ -37,7 +37,7 @@ body{font-size:16px}.header-4 .mainmenu li a{color:#fff}
 .s-4-icon strong{position:absolute;left:40%;top:14%;content:"";width:20px;height:20px;background-color:#fff;border-radius:50%;z-index:1;-webkit-animation:a 10s linear infinite;animation:a 10s linear infinite}
 .s-4-icon strong:nth-child(2){left:47%;top:5%;width:15px;height:15px}
 .video-img{position:relative;z-index:1}
-.vd-btn{position:absolute;-webkit-transform:translate(-50%,-50%);-ms-transform:translate(-50%,-50%);transform:translate(-50%,-50%);left:50%;top:50%;width:80px;height:80px;line-height:80px;background-color:#fff;font-size:35px;border-radius:50%;color:#8000e9;-webkit-transition:.3s;-o-transition:.3s;transition:.3s}
+.vd-btn{position:absolute;-webkit-transform:translate(-50%,-50%);-ms-transform:translate(-50%,-50%);transform:translate(-50%,-50%);left:50%;top:70%;width:80px;height:80px;line-height:80px;background-color:#e5e9f2;font-size:35px;border-radius:50%;color:#8000e9;-webkit-transition:.3s;-o-transition:.3s;transition:.3s}
 .vd-btn:hover{background-image:linear-gradient(-200deg, #7775ff, #40B0FF);color:#fff}
 .features-4-img{position:relative;z-index:1}
 .features-4-img img.timeline{position:absolute;right:0;top:0;z-index:1;width:300px;margin:0}
